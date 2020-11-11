@@ -19,3 +19,13 @@ You establish a project directory using the firebase init command. A project dir
 `firebase init`
 yikes that was a long process. I have no idea what I've done
 
+-------------------------------
+
+`firebase serve`
+
+> To deploy to a Firebase project, run the following command from your project directory:
+```
+firebase deploy -m "Deploying the best new feature ever."
+```
+
+
